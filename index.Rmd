@@ -1,6 +1,6 @@
 --- 
 title: "Machine Learning 2026"
-author: "Faculty: David Wishart, Tanvir Sajed, Mark Berjanskii"
+author: "Faculty: David Wishart & Mark Berjanskii"
 date: "April 22-23, 2026"
 site: bookdown::bookdown_site
 documentclass: book
