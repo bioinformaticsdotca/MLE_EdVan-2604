@@ -34,16 +34,16 @@ BIO GOES HERE-->
 
 #### Ekaterina Manskaia
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+<img src="./img/faculty/Ekaterina_Manskaia_Headshot.jpg" width="200" alt="Photo of NAME">
 
-<!--
->JOB TITLE <br>
-INSTITUTION <br>
-LOCATION
+
+>Doctoral Research Assistant <br>
+University of British Columbia <br>
+Vancouver, BC, Canada
 >
-> --- CONTACT INFO, IF PROVIDED
+> --- emanskaya@gmail.com
 
-BIO GOES HERE-->
+Ekaterina is a multidisciplinary professional with a blend of expertise in bioinformatics, computational chemistry, business analysis, and law. Currently, Ekaterina is pursuing a Doctoral degree in Bioinformatics at the University of British Columbia (UBC), where her research focuses on leveraging generative AI and machine learning to uncover new drug candidates for cancer and infectious diseases. Alongside her research, she has led projects in computational chemistry, managed complex data systems, and mentored students in Python programming, machine learning, and data science. She has recently published an open-source statistical analysis handbook. For the past few years, she has also been working as a Teaching Assistant in UBC’s Master of Data Science program.
 
 #### Varinder Madhav Verma
 
