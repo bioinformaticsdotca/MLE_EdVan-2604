@@ -1,21 +1,19 @@
 day_label,date,activity,type,time_1,timezone_1_label,time_2,timezone_2_label
-April 22,2026-04-22,	Arrivals & Check-in,break,07:30,"Time (PT)",08:30,"Time (MT)"
-April 22,2026-04-22,	"Welcome (Coordinator)",activity,08:00,"Time (PT)",09:00,"Time (MT)"
-April 22,2026-04-22,	Module 1 (Instructor),activity,08:30,"Time (PT)",09:30,"Time (MT)"
-April 22,2026-04-22,	Break (30min),break,09:30,"Time (PT)",10:30,"Time (MT)"
-April 22,2026-04-22,	Module 1 Lab,activity,10:00,"Time (PT)",11:00,"Time (MT)"
-April 22,2026-04-22,	Lunch (1h),break,12:00,"Time (PT)",13:00,"Time (MT)"
-April 22,2026-04-22,	Module 2 (Instructor),activity,13:00,"Time (PT)",14:00,"Time (MT)"
-April 22,2026-04-22,	Break (30min),break,14:00,"Time (PT)",15:00,"Time (MT)"
-April 22,2026-04-22,	Module 2 Lab,activity,14:30,"Time (PT)",15:30,"Time (MT)"
-April 22,2026-04-22,	Finished,break,16:30,"Time (PT)",17:30,"Time (MT)"
-April 23,2026-04-23,	Arrivals,break,07:30,"Time (PT)",08:30,"Time (MT)"
-April 23,2026-04-23,	Module 3 (Instructor),activity,08:00,"Time (PT)",09:00,"Time (MT)"
-April 23,2026-04-23,	Break (30min),break,09:00,"Time (PT)",10:00,"Time (MT)"
-April 23,2026-04-23,	Module 3 Lab,activity,09:30,"Time (PT)",10:30,"Time (MT)"
-April 23,2026-04-23,	Class photo + Lunch (1h),break,11:30,"Time (PT)",12:30,"Time (MT)"
-April 23,2026-04-23,	Module 4 (Instructor),activity,12:30,"Time (PT)",13:30,"Time (MT)"
-April 23,2026-04-23,	Break (30min),break,13:30,"Time (PT)",14:30,"Time (MT)"
-April 23,2026-04-23,	Module 4 Lab,activity,14:00,"Time (PT)",15:00,"Time (MT)"
-April 23,2026-04-23,	Survey & Closing Remarks,activity,16:00,"Time (PT)",17:00,"Time (MT)"
-April 23,2026-04-23,	Finished,break,16:30,"Time (PT)",17:30,"Time (MT)"
+April 22,2026-04-22,Introductions and Technology Check,activity,08:00,Time (PT),09:00,Time (MT)
+April 22,2026-04-22,Module 1: Introduction to Machine Learning (Lecture),activity,08:45,Time (PT),09:45,Time (MT)
+April 22,2026-04-22,Break (30min),break,10:00,Time (PT),11:00,Time (MT)
+April 22,2026-04-22,Module 2: Decision Trees (Lecture and Lab),activity,10:30,Time (PT),11:30,Time (MT)
+April 22,2026-04-22,Break (45min),break,12:00,Time (PT),13:00,Time (MT)
+April 22,2026-04-22,Module 3: Neural Networks (Lecture and Lab),activity,13:00,Time (PT),14:00,Time (MT)
+April 22,2026-04-22,Break (30min),break,14:00,Time (PT),15:00,Time (MT)
+April 22,2026-04-22,Module 4: Neural Networks for 2° Structure (Lecture and Homework),activity,14:30,Time (PT),15:30,Time (MT)
+April 22,2026-04-22,End of Day 1,break,16:00,Time (PT),17:00,Time (MT)
+April 23,2026-04-23,Module 5: Gene Finding with NNs (Lecture and Lab),activity,08:00,Time (PT),09:00,Time (MT)
+April 23,2026-04-23,Break (30min),break,10:00,Time (PT),11:00,Time (MT)
+April 23,2026-04-23,Module 6: Machine Learning with Keras and Scikit-Learn (Lecture/Lab),activity,10:30,Time (PT),11:30,Time (MT)
+April 23,2026-04-23,Break + Lunch (1h),break,12:00,Time (PT),13:00,Time (MT)
+April 23,2026-04-23,Module 7: Machine Learning with Keras and Scikit-Learn (Cont'd),activity,13:00,Time (PT),14:00,Time (MT)
+April 23,2026-04-23,Break (30min),break,14:00,Time (PT),15:00,Time (MT)
+April 23,2026-04-23,Module 8: LLMs and Agentic Coding for Bioinformatics,activity,14:30,Time (PT),15:30,Time (MT)
+April 23,2026-04-23,Survey and Closing Remarks,activity,15:45,Time (PT),16:45,Time (MT)
+April 23,2026-04-23,End of Day 2,break,16:00,Time (PT),17:00,Time (MT)
