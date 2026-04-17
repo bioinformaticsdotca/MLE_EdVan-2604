@@ -47,7 +47,7 @@ Ekaterina is a multidisciplinary professional with a blend of expertise in bioin
 
 #### Varinder Madhav Verma
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Varinder Madhav Verma">
 
 >PhD Candidate <br>
 University of Alberta <br>
@@ -60,7 +60,20 @@ Prior to his doctoral studies, Varinder completed a Master’s degree in Systems
 
 #### Ayla Chin
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Ayla Chin">
+
+<!--
+>JOB TITLE <br>
+INSTITUTION <br>
+LOCATION
+>
+> --- CONTACT INFO, IF PROVIDED
+
+BIO GOES HERE-->
+
+#### Kowen Woo
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Kowen Woo">
 
 <!--
 >JOB TITLE <br>
