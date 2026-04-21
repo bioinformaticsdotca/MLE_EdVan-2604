@@ -1,7 +1,7 @@
 # Meet Your Faculty
 
 #### David Wishart
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of David Wishart">
+<img src="./img/faculty/David-Wishart.PNG" width="200" alt="Photo of David Wishart">
 
 >Distinguished Professor<br>
 University of Alberta <br>
@@ -47,7 +47,7 @@ Ekaterina is a multidisciplinary professional with a blend of expertise in bioin
 
 #### Varinder Madhav Verma
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Varinder Madhav Verma">
+<img src="./img/faculty/Varinder-Verma.JPG" width="200" alt="Photo of Varinder Madhav Verma">
 
 >PhD Candidate <br>
 University of Alberta <br>
@@ -60,26 +60,24 @@ Prior to his doctoral studies, Varinder completed a Master’s degree in Systems
 
 #### Ayla Chin
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Ayla Chin">
+<img src="./img/faculty/Ayla-Chin.jpg" width="200" alt="Photo of Ayla Chin">
 
-<!--
->JOB TITLE <br>
-INSTITUTION <br>
-LOCATION
+>Research Assistant <br>
+University of Alberta <br>
+Edmonton, Alberta, Canada
 >
-> --- CONTACT INFO, IF PROVIDED
+> --- achin1@ualberta.ca
 
-BIO GOES HERE-->
+Ayla Chin is a research assistant in the Wishart Lab at the University of Alberta. She completed her BSc. in Biological Sciences and Bioinformatics and has been working on several bioinformatics projects since graduating. Her research interests include machine learning for prediction tasks and software development for environmental data analysis.
 
 #### Kowen Woo
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Kowen Woo">
+<img src="./img/faculty/kowen-woo.jpg" width="200" alt="Photo of Kowen Woo">
 
-<!--
->JOB TITLE <br>
-INSTITUTION <br>
-LOCATION
+>Undergraduate Student / Machine Learning Researcher <br>
+University of Alberta / MILA - Quebec AI Institute <br>
+Edmonton, Alberta
 >
-> --- CONTACT INFO, IF PROVIDED
+> --- kowen1@ualberta.ca
 
-BIO GOES HERE-->
+Kowen Woo is a Métis undergraduate student in the Computer Science with Honors in AI program at the University of Alberta. His research interests center around safe and equitable AI development, particularly for Indigenous communities. Currently, he is an intern at MILA – Quebec AI Institute with the First Languages AI Reality (FLAIR) initiative in Montreal, where he works on Indigenous language revitalization using large language models. He is also a research assistant in the Foundations of Robust and Trustworthy Algorithms (FORT) lab at the University of Alberta, working on locating unmarked graves for indigenous communities with AI. 
