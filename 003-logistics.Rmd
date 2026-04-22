@@ -4,7 +4,7 @@ This section contains venue information and logistics for both workshop location
 
 ## Edmonton
 
-[Workshop Location Information (Edmonton)](../content-files/Workshop_location_in_Edmonton.pptx)
+[Workshop Location Information (Edmonton)](content-files/Workshop_location_in_Edmonton.pptx)
 
 ## Vancouver
 
