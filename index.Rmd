@@ -24,6 +24,10 @@ Welcome to the 2026 Machine Learning Canadian Bioinformatics Workshop webpage!
 
 [You can find your pre-work here.](https://forms.gle/gqMUCm2fASXatsZg9)
 
+## Download Workshop Materials
+
+[Download Day 1 Materials (ZIP, 94 MB)](content-files/CBW-MachineLearning-2026_day_1.zip) - Contains lecture slides, Python/R lab notebooks, and data files for Modules 1-4
+
 ## Class Photo
 
 Coming soon! 
