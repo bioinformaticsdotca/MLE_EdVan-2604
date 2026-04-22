@@ -36,7 +36,7 @@ Edit the appropriate `.Rmd` file or other source file. The main files you will m
 | `index.Rmd` | Front page content (welcome text, schedule, pre-work link) |
 | `001-faculty.Rmd` | Faculty and TA bios |
 | `003-logistics.Rmd` | Logistics parent page |
-| `004-edmonton.Rmd` | Edmonton venue/location info |
+| `003-logistics.Rmd` | Contains Edmonton location info (no separate page) |
 | `005-vancouver.Rmd` | Vancouver venue/location info |
 | `010-module-1.Rmd` – `080-module-8.Rmd` | Module content pages |
 | `schedule.csv` | Workshop schedule data |
@@ -99,7 +99,8 @@ Check that the website reflects your changes. Use `curl` to confirm files are ac
 curl -sI 'https://bioinformaticsdotca.github.io/MLE_EdVan-2604/' 2>&1 | head -3
 
 # Check a specific page (no docs/ prefix — it's stripped)
-curl -sI 'https://bioinformaticsdotca.github.io/MLE_EdVan-2604/edmonton-workshop-location.html' 2>&1 | head -3
+# Edmonton info is now in logistics.html - no separate page
+# curl -sI 'https://bioinformaticsdotca.github.io/MLE_EdVan-2604/logistics.html' 2>&1 | head -3
 
 # Check a downloadable file
 curl -sI 'https://bioinformaticsdotca.github.io/MLE_EdVan-2604/content-files/file.pptx' 2>&1 | head -3
@@ -245,7 +246,7 @@ MLE_EdVan-2604/
 ├── 001-faculty.Rmd        # Faculty & TA bios
 ├── 002-computing.Rmd      # Computing setup page
 ├── 003-logistics.Rmd      # Logistics parent page
-├── 004-edmonton.Rmd       # Edmonton venue info
+# (004-edmonton.Rmd removed - consolidated into 003-logistics.Rmd)
 ├── 005-vancouver.Rmd      # Vancouver venue info
 ├── 010-module-1.Rmd       # Module 1 content
 ├── 020-module-2.Rmd       # Module 2 content
@@ -303,7 +304,7 @@ curl -sI 'https://bioinformaticsdotca.github.io/MLE_EdVan-2604/path/to/file' 2>&
 | Website homepage | `https://bioinformaticsdotca.github.io/MLE_EdVan-2604/` |
 | Module 1 page | `https://bioinformaticsdotca.github.io/MLE_EdVan-2604/module-1.html` |
 | Logistics page | `https://bioinformaticsdotca.github.io/MLE_EdVan-2604/logistics.html` |
-| Edmonton page | `https://bioinformaticsdotca.github.io/MLE_EdVan-2604/edmonton-workshop-location.html` |
+| Logistics page (Edmonton section) | `https://bioinformaticsdotca.github.io/MLE_EdVan-2604/logistics.html` |
 | Downloadable file | `https://bioinformaticsdotca.github.io/MLE_EdVan-2604/content-files/filename.ext` |
 
 **Note:** The `docs/` prefix is stripped from URLs because GitHub Pages serves the `docs/` directory as the site root.
