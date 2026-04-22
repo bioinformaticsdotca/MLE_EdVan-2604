@@ -11,3 +11,6 @@
 -->
 
 ## Lab
+
+- [Download Module 4 Python Lab Materials (ZIP)](content-files/Module-4-Python.zip)
+- [Download Module 4 R Lab Materials (ZIP)](content-files/Module-4-R.zip)
