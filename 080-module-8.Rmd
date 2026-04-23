@@ -11,3 +11,5 @@
 -->
 
 ## Lab
+
+[Download Module 8 Lab (ZIP, 7 MB)](content-files/Module_8_Agentic_coding.zip)
