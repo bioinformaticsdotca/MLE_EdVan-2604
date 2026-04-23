@@ -2,6 +2,8 @@
 
 ## Lecture
 
+[Download Module 6 Lecture (PPTX, 7 MB)](content-files/Module_6_CBW_MachineLearning-2026_v2.pptx)
+
 <!--<iframe width="640" height="360" src="YOUTUBE EMBED LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
