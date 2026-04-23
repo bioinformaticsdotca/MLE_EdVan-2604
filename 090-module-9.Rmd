@@ -1,0 +1,80 @@
+# Resources Shared in Slack<br>
+
+Here is a collection of relevant resources that were shared in Slack over the duration of the workshop.
+
+## Articles
+[AI vs. machine learning vs. deep learning vs. neural networks: What’s the difference?](https://www.ibm.com/think/topics/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks)<br>
+>Author: IBM Data and AI Team<br>
+>Topic: What differences make AI vs. machine learning vs. deep learning vs. neural networks each a unique technology?<br>
+
+[AlphaFold: When AI Meets Biology](https://medium.com/demistify/alphafold-when-ai-meets-biology-f7169c674a61)<br>
+>Author: Nigel Ma, for Medium<br>
+>Topic: What is AlphaFold protein structure prediction?
+
+[Understanding Decision Trees](https://medium.com/@jainvidip/understanding-decision-trees-1ba0ef5f6bb4)<br>
+>Author: Jainvidip, for Medium<br>
+>Topic: Comprehensive explanation of decision trees, including Python examples
+
+[A Practical Example of How to Use Pandas to Feature Engineer Messy Data](https://medium.com/@a.paros8947/a-practical-example-of-how-to-feature-engineer-messy-data-for-binary-classification-69375038636b)<br>
+> Author: Lexi Base, for Medium<br>
+> Topic: Walkthrough of using Python and Pandas for feature engineering
+
+[Datasets: Class-imbalanced datasets](https://developers.google.com/machine-learning/crash-course/overfitting/imbalanced-datasets)<br>
+>Author: Google<br>
+>Topic: Strategies for using imbalance datasets in machine learning 
+
+[But what is a Neural Network?](https://www.3blue1brown.com/lessons/neural-networks/)<br>
+>Author: Grant Sanderson and Josh Pullen<br>
+>Topic: An overview of what a neural network is, introduced in the context of recognizing hand-written digits.
+
+[Batching and Mini-Batch: Making Your Deep Learning Model Work Efficiently](https://medium.com/@nasuhcanturker/batching-and-mini-batch-making-your-deep-learning-model-work-efficiently-1bb5d3481eda)<br>
+>Author: NasuhcaN for Medium<br>
+>Topic: How to divide your dataset into smaller parts for training a machine learning model, with PyTorch examples
+
+[In-Depth: Decision Trees and Random Forests](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)<br>
+>Author: Jake VanderPlas<br>
+>Topic: Differences between random forests and decision trees<br>
+
+[Weight initialization and regularization](https://cs230.stanford.edu/section/4/)<br>
+>Author: Stanford CS230<br>
+>Topic: Weight initialization and regularization during Neural Network training
+
+
+## Books & Textbooks
+A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains
+>Author: Max S. Bennett<br>
+>Topic: Book about the connections between neurosciences and AI
+
+[Basics of Machine Learning](https://marthawhite.github.io/mlbasics/notes.pdf)<br>
+>Author: Martha White<br>
+>Topic: Textbook on core concepts in machine learning: probabilistic underpinnings, estimators, evaluating confidence in an estimator, bias-variance, generalization and overfitting, regularization and basic optimization algorithms
+
+[Intermediate Machine Learning](https://marthawhite.github.io/ml-intermediate/notes.pdf)<br>
+>Author: Martha White<br>
+>Topic: Machine learning textbook expanding on “Basics of Machine Learning”
+
+
+## Visualizations
+[Backprop Explainer](https://xnought.github.io/backprop-explainer/)<br>
+>Author: Donny Bertucci<br>
+>Topic: Explanation and visual representation of backpropagation
+
+[Transformer Explainer: LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/)<br>
+>Author: Polo Club of Data Science, Georgia Tech<br>
+>Topic: Visualization tool for exploring transformer models
+
+[Gradient Descent Visualiser](https://uclaacm.github.io/gradient-descent-visualiser/)<br>
+>Author: ACM at UCLA<br>
+>Topic: Visual explanation of gradient descent
+
+[Underfitting vs Overfitting with Visualization](https://medium.com/@shrinath.venkatesh/underfitting-vs-overfitting-with-visualization-891b5c686a8b)<br>
+>Author: Shrinath Venkatesh, for Medium<br>
+>Topic: Visual explanation of overfitting and underfitting
+
+## Videos
+Intro to Large Language Models<br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zjkBMFhNj_g?si=1WQhFVmxw8r8DuwL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<!--<iframe src="GOOGLE SLIDES LINK/preview" width="640" height="480" allow="autoplay"></iframe><br>
+-->
