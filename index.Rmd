@@ -28,7 +28,7 @@ Welcome to the 2026 Machine Learning Canadian Bioinformatics Workshop webpage!
 
 [Download Day 1 Materials (ZIP, 96 MB)](content-files/CBW-MachineLearning-2026_day_1.zip) - Contains lecture slides, Python/R lab notebooks, and data files for Modules 1-4
 
-[Download Day 2 Materials (ZIP, 68 MB)](content-files/CBW-MachineLearning_2026_day_2.zip) - Contains lecture slides, Python/R lab notebooks, and data files for Modules 5-8
+[Download Day 2 Materials (ZIP, 72.6 MB)](content-files/CBW-MachineLearning_2026_day_2.zip) - Contains lecture slides, Python/R lab notebooks, and data files for Modules 5-8
 
 ## Class Photo
 Edmonton  
