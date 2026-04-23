@@ -2,7 +2,7 @@
 
 ## Lecture
 
-[Download Module 8 Lecture (PPTX, 21 MB)](content-files/Module_8_CBW_MachineLearning-2026_v3_B.pptx)
+[Download Module 8 Lecture (PPTX, 17 MB)](content-files/Module_8_CBW_MachineLearning-2026_v3_B_short.pptx)
 
 <!--<iframe width="640" height="360" src="YOUTUBE EMBED LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
